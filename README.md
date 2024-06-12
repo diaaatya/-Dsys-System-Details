@@ -41,5 +41,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Support
 
-For any questions, issues, or feedback, please [open an issue](https://github.com/diaaatya/dsys-system-details/issues) or contact [maintainer's email].
+For any questions, issues, or feedback, please [open an issue](https://github.com/diaaatya/dsys-system-details/issues) or contact [diaa.atya@hotmail.com].
 
