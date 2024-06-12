@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Dsys\Dsys\bin\Debug\Dsys.exe.config
+C:\Users\Admin\source\repos\Dsys\Dsys\bin\Debug\Dsys.exe
+C:\Users\Admin\source\repos\Dsys\Dsys\bin\Debug\Dsys.pdb
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.Form1.resources
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.Properties.Resources.resources
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.exe
+C:\Users\Admin\source\repos\Dsys\Dsys\obj\Debug\Dsys.pdb
