@@ -37,13 +37,9 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgements
 
-- Special thanks to [contributors](CONTRIBUTORS.md) who have helped improve this project.
-- Hat tip to anyone whose code was used.
-- Inspiration from similar projects and utilities.
 
 ## Support
 
-For any questions, issues, or feedback, please [open an issue](https://github.com/yourusername/dsys-system-details/issues) or contact [maintainer's email].
+For any questions, issues, or feedback, please [open an issue](https://github.com/diaaatya/dsys-system-details/issues) or contact [maintainer's email].
 
